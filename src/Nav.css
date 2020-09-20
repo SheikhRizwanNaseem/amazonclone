@@ -1,0 +1,42 @@
+
+.nav{
+    background-color: #232f3e;
+
+display: flex;
+align-items: center;
+}
+
+.location{
+    color: white;
+    margin-left: 50px;
+    display: flex;
+}
+.icon{
+    margin-top: 10px;
+    }
+
+.middle{
+    color: white;
+margin-left: 140px;
+display: -webkit-inline-flex;
+}
+.cs{
+    margin-left: 30px;
+}
+.gc{
+    margin-left: 30px;
+}
+.rej{
+    margin-left: 30px;
+}
+.sell{
+    margin-left: 30px;
+}
+
+
+.last{
+    color: white;
+
+    position: relative;
+    margin-left: 450px;
+}
