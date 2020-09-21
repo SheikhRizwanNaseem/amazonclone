@@ -57,6 +57,16 @@ function Home() {
  img="https://images.news18.com/ibnlive/uploads/2019/10/TCL-40S62FS-40-inch-full-HD-smart-TV.jpg">
 
                 </Product>
+
+                <Product 
+                id={12345} 
+              tittle="Amazon Great Indian Festival: Buy the TCL 40-inch Full HD Smart TV at About Rs 12,000
+                "
+                price={327.05}
+                ratting={4}
+ img="https://images.news18.com/ibnlive/uploads/2019/10/TCL-40S62FS-40-inch-full-HD-smart-TV.jpg">
+
+                </Product>
                 
                 
                 
