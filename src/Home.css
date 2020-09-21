@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(234,237,237);
+}
+.bannerimg{
+    height: auto;
+    cursor: zoom-in;
+    width: auto;
+    background-size: auto;
+    margin-bottom: -380px;
+    
+}
+.productrow{
+    display: flex;
+    z-index: 1;
+}
